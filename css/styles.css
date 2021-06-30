@@ -1,0 +1,31 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.title {
+    background-color: white;
+    color: green;
+    text-align: center;
+    padding: 10vh;
+}
+
+.info {
+    color: red;
+}
+
+.intro {
+    background-color: teal;
+    color: white
+}
+
+#image1 {
+    display: none;
+}
+
+#eastA {
+    color: red;
+}
+
+#carouselExampleDark {
+    height: 50vh;
+}
