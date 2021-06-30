@@ -17,4 +17,5 @@ dev($("#eastA"), $("#image1"));
 dev($(".kenyat"), $("#image2"));
 dev($(".ug"), $("#image3"));
 dev($(".tz"), $("#image4"));
-dev($(".central"), $("#image5"))
+dev($(".central"), $("#image5"));
+dev($(".dr-co"), $("#image6"));

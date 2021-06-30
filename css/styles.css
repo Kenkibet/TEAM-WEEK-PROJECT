@@ -7,10 +7,16 @@ html {
 }
 
 .title {
-    background-color: white;
+    background-color: floralwhite;
     color: green;
     text-align: center;
     padding: 10vh;
+}
+
+#h3 {
+    font-size: medium;
+    font-style: italic;
+    color: red;
 }
 
 .info {
@@ -37,19 +43,22 @@ html {
     height: 50vh;
 }
 
-.kenyat {
+.kenyat,
+.dr-co {
     color: blue;
     font-weight: bolder;
     font-size: 2rem;
 }
 
 #image2,
-#image5 {
+#image5,
+#image6 {
     display: none;
 }
 
 .keyint,
-.centinfo {
+.centinfo,
+.drinfo {
     background-color: teal;
     color: white;
     font-weight: bold;
