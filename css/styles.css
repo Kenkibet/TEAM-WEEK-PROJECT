@@ -26,8 +26,11 @@ html {
     display: none;
 }
 
-#eastA {
+#eastA,
+.central {
     color: red;
+    font-size: larger;
+    font-size: 3rem;
 }
 
 #carouselExampleDark {
@@ -35,15 +38,42 @@ html {
 }
 
 .kenyat {
-    color: teal;
+    color: blue;
     font-weight: bolder;
+    font-size: 2rem;
 }
 
-#image2 {
+#image2,
+#image5 {
     display: none;
 }
 
-.keyint {
-    background-color: red;
+.keyint,
+.centinfo {
+    background-color: teal;
     color: white;
+    font-weight: bold;
+}
+
+.ug,
+.tz {
+    color: blue;
+    font-weight: bolder;
+    font-size: larger;
+    font-size: 2rem;
+}
+
+#image3 {
+    display: none;
+}
+
+.uginfo,
+.tzinfo {
+    background-color: teal;
+    color: white;
+    font-weight: bold;
+}
+
+#image4 {
+    display: none;
 }

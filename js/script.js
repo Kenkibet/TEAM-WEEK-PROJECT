@@ -1,23 +1,20 @@
-function dev(e, i, f, g) {
+function dev(e, i, f, g, h, j) {
 
     $(document).ready(function() {
         e.click(function() {
-            e.toggle(1000);
-            i.toggle(1000);
+            e.hide(1000);
+            i.show(1000);
         });
         i.click(function() {
-            e.toggle(1000);
-            i.toggle(1000);
+            e.show(1000);
+            i.hide(1000);
         });
-        f.click(function() {
-            f.toggle();
-            g.toggle(1000);
-        });
-        g.click(function() {
-            f.toggle(1000);
-            g.toggle(1000);
-        })
+
+
     });
 }
 dev($("#eastA"), $("#image1"));
-dev($(".kenyat"), $("#image2"))
+dev($(".kenyat"), $("#image2"));
+dev($(".ug"), $("#image3"));
+dev($(".tz"), $("#image4"));
+dev($(".central"), $("#image5"))
