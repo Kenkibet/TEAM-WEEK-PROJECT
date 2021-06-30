@@ -2,6 +2,10 @@ html {
     scroll-behavior: smooth;
 }
 
+.menu-flex {
+    display: flex;
+}
+
 .title {
     background-color: white;
     color: green;
@@ -28,4 +32,18 @@ html {
 
 #carouselExampleDark {
     height: 50vh;
+}
+
+.kenyat {
+    color: teal;
+    font-weight: bolder;
+}
+
+#image2 {
+    display: none;
+}
+
+.keyint {
+    background-color: red;
+    color: white;
 }
