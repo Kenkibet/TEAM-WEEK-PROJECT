@@ -1,0 +1,10 @@
+
+  .masthead {
+    height: 70vh;
+    min-height: 500px;
+    background-image: url('../images/climate.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    box-shadow: inset 2000px 2000px rgba(133, 9, 9, 0.562);
+  }
