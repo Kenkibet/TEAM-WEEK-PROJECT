@@ -1,0 +1,82 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.menu-flex {
+    display: flex;
+}
+
+.title {
+    background-color: floralwhite;
+    color: green;
+    text-align: center;
+    padding: 10vh;
+}
+
+.info {
+    color: red;
+}
+
+.intro {
+    background-color: teal;
+    color: white
+}
+
+#image1 {
+    display: none;
+}
+
+#eastA,
+.central {
+    color: red;
+    font-size: larger;
+    font-size: 3rem;
+}
+
+#carouselExampleDark {
+    height: 50vh;
+}
+
+.kenyat,
+.dr-co {
+    color: blue;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+#image2,
+#image5,
+#image6 {
+    display: none;
+}
+
+.keyint,
+.centinfo,
+.drinfo {
+    background-color: teal;
+    color: white;
+    font-weight: bold;
+}
+
+.ug,
+.tz {
+    color: blue;
+    font-weight: bolder;
+    font-size: larger;
+    font-size: 2rem;
+}
+
+#image3 {
+    display: none;
+}
+
+.uginfo,
+.tzinfo {
+    background-color: teal;
+    color: white;
+    font-weight: bold;
+}
+
+#image4 {
+    display: none;
+}
