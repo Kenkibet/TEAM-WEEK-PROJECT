@@ -1,0 +1,93 @@
+span {
+    width: -40%;
+}
+
+.region1 {
+    background-color: lightblue;
+}
+
+.region1 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+}
+
+.country1 {
+    background-color: lightblue;
+}
+
+.country1 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+    color: papayawhip;
+}
+
+.country1 img {
+    display: inline-block;
+}
+
+.country2 {
+    background-color: lightblue;
+}
+
+.country2 p {
+    font-size: 20px;
+    background-color: rgb(0, 128, 122);
+}
+
+.west1 {
+    background-color: lightblue;
+}
+
+.west1 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px
+}
+
+.africa1 {
+    background-color: lightblue;
+}
+
+.africa1 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+}
+
+.africa2 {
+    background-color: lightblue;
+}
+
+.africa2 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+}
+
+.north1 {
+    background-color: lightblue;
+}
+
+.north1 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+}
+
+.desert1 {
+    background-color: lightblue;
+}
+
+.desert1 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+}
+
+.desert2 {
+    background-color: lightblue;
+}
+
+.desert2 p {
+    background-color: rgb(0, 128, 122);
+    font-size: 20px;
+}
+
+#south {
+    color: red;
+}
